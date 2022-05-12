@@ -23,7 +23,6 @@
                         </notebook>                        
                     </sheet>
                 </form>
-            </field>
         </record>
         <record model='ir.ui.view' id='course_view_list'>
             <field nane='name'>academy.course.list</field>
